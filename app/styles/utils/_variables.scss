@@ -11,15 +11,17 @@ $gray-lightest          : #f8f8f8;
 $slate-gray             : #39424B;
 $slate-green            : #56817A;
 
-$primary-color          : $slate-green;
+$awesome-blue           : #4195C5;
+
+$primary-color          : $awesome-blue;
 $secondary-color        : $slate-gray;
 
 $link-color             : #2895F1;
 
 /*----- Fonts -----*/
 
-$primary-font               : 'Lato', Helvetica, Arial, sans-serif;
-$secondary-font             : 'Josefin Sans', Helvetica, Arial, sans-serif;
+$primary-font           : 'Lato', Helvetica, Arial, sans-serif;
+$secondary-font         : 'Open Sans', Helvetica, Arial, sans-serif;
 
 /*----- Dimensions and sizes -----*/
 
@@ -35,7 +37,7 @@ $desktop-width          : 1200px;
 $retina-width           : 1920px;
 
 $font-unit              : 4px;
-$profile-pic-size       : 52px;
-$aside-width            : 160px;
+$profile-pic-size       : 110px;
+$aside-width            : 175px;
 $aside-margin           : 20px;
 $pad-unit               : 5px;
